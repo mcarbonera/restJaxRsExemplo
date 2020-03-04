@@ -12,15 +12,13 @@ O json utilizado nas requisições POST E PUT, bem como resposta nas consultas (GE
 tem o formato exemplificado:
 
 {
-	
 	"id": 1,
 	
 	"uri": "restJaxRsExemplo/editar/1",
 	
 	"nome": "nome",
 	
-	"sobrenome": "sobrenome"
-	
+	"sobrenome": "sobrenome"	
 }
 
 A parte de persistência foi desenvolvida usando banco Oracle, acessado por intermédio do Hibernate/JPA.
