@@ -13,11 +13,8 @@ tem o formato exemplificado:
 
 	{
 		"id": 1,
-	
 		"uri": "restJaxRsExemplo/editar/1",
-	
 		"nome": "nome",
-	
 		"sobrenome": "sobrenome"	
 	}
 
