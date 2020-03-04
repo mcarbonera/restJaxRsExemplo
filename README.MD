@@ -2,11 +2,11 @@ Exemplo de implementação de endpoint rest usando JaxRS.
 
 Nesse hello world, foi implementado um crud com os seguintes endpoints:
 
-http://localhost:8080/restJaxRsExemplo/crudFinal/consultarTodos (GET)
-http://localhost:8080/restJaxRsExemplo/crudFinal/consultarId/{Id} (GET)
-http://localhost:8080/restJaxRsExemplo/crudFinal/cadastrar (POST)
-http://localhost:8080/restJaxRsExemplo/crudFinal/editar (PUT)
-http://localhost:8080/restJaxRsExemplo/crudFinal/excluir/{Id} (DELETE)
+	http://localhost:8080/restJaxRsExemplo/crudFinal/consultarTodos (GET)
+	http://localhost:8080/restJaxRsExemplo/crudFinal/consultarId/{Id} (GET)
+	http://localhost:8080/restJaxRsExemplo/crudFinal/cadastrar (POST)
+	http://localhost:8080/restJaxRsExemplo/crudFinal/editar (PUT)
+	http://localhost:8080/restJaxRsExemplo/crudFinal/excluir/{Id} (DELETE)
 
 O json utilizado nas requisições POST E PUT, bem como resposta nas consultas (GET), 
 tem o formato exemplificado:
